@@ -20,6 +20,3 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## License:
 This project is licensed under the MIT License. Please see the LICENSE.md file for details.
-
-## Acknowledgments:
-I thank Sanket Gupte for his guidance and helping us with some of the ideas implemented in this project. I worked with Edwin Mascarenhas and would like to mention him for his contributions.
